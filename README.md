@@ -1,2 +1,2 @@
-browserify-tet
+browserify-test
 ==============
